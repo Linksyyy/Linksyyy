@@ -26,5 +26,4 @@
 </p>
 
 ---
-
-<p align="center">📫 Let's ~break~ build something everything together.</p>
+![linksyyy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=linksyyy&theme=tokyonight&hide_border=true)
