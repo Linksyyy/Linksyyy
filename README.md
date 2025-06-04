@@ -2,7 +2,7 @@
 <p align="center">Computer Science @ UFS · Aspiring software engineer · Chaos Architect</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts,nodejs,deno,bun,html,css,postgres,mysql,mongodb" alt="Tech Stack" /> <\br>
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,nodejs,deno,bun,html,css,postgres,mysql,mongodb" alt="Tech Stack" /> <br>
   <img src="https://skillicons.dev/icons?i=arch,emacs,vscode,vim" alt="Tech Stack" />
 </p>
 
