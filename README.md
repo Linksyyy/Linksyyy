@@ -30,21 +30,37 @@
 </p>
 
 ---
-$$
-\int_a^b f(x)\,dx = F(b) - F(a)
-$$
 
-$$
-\frac{\partial^2 u}{\partial t^2} = c^2 \nabla^2 u
-$$
-$$
-\mathbf{F} = m \mathbf{a}
-$$
+\documentclass{article}
+\usepackage[margin=0.25in]{geometry}
+\usepackage{pgfplots}
+\pgfplotsset{width=10cm,compat=1.9}
 
-$$
-\nabla \cdot \mathbf{E} = \frac{\rho}{\varepsilon_0}
-$$
+% We will externalize the figures
+\usepgfplotslibrary{external}
+\tikzexternalize
 
-$$
-\sum_{n=1}^\infty \frac{1}{n^2} = \frac{\pi^2}{6}
-$$
+\begin{document}
+
+First example is 2D and 3D math expressions plotted side-by-side.
+
+%Here begins the 2D plot
+\begin{tikzpicture}
+\begin{axis}
+\addplot[color=red]{exp(x)};
+\end{axis}
+\end{tikzpicture}
+%Here ends the 2D plot
+\hskip 5pt
+%Here begins the 3D plot
+\begin{tikzpicture}
+\begin{axis}
+\addplot3[
+    surf,
+]
+{exp(-x^2-y^2)*x};
+\end{axis}
+\end{tikzpicture}
+%Here ends the 3D plot
+
+\end{document}
