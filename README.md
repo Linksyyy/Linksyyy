@@ -12,10 +12,9 @@
 > `Node.js` · `Deno` · `HTML/CSS` · `PostgreSQL`
 
 ### 🧠 About me:
-- Engineering student at UFS (🇧🇷)
-- Obsessive with clean code & weird edge cases
-- Learning fast. Breaking things faster.
-
+- Computer Science student @ UFS (🇧🇷)
+- Obsessive about performance, clean architecture & low-level thinking
+- Always tweaking, profiling, and over-optimizing (for fun)
 ---
 
 <p align="center">
@@ -28,4 +27,4 @@
 
 ---
 
-<p align="center">📫 Let's build something ~or break everything~ together.</p>
+<p align="center">📫 Let's ~break~ build something everything together.</p>
