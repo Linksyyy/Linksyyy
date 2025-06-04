@@ -2,7 +2,7 @@
 <p align="center">Computer Science @ UFS · Aspiring software engineer · Chaos Architect</p>
 
 <div align="center">
-  <h3>Main Tech Stack:</h3>
+  <h3>Main Stack:</h3>
   <img src="https://skillicons.dev/icons?i=cpp,js,ts,nodejs,deno,bun,html,css,postgres,mysql,mongodb" alt="Main Tech Stack" /><br><br>
   
   <h3>Others:</h3>
