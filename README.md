@@ -18,12 +18,11 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=linksyyy&show_icons=true&theme=tokyonight" alt="Adriel's GitHub stats" />
+  ![linksyyy's Stats](https://github-readme-stats.vercel.app/api?username=linksyyy&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linksyyy&layout=compact&theme=tokyonight" alt="Top Langs" />
+  ![linksyyy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=linksyyy&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 </p>
 
 ---
-![linksyyy's Stats](https://github-readme-stats.vercel.app/api?username=linksyyy&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
