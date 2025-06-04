@@ -1,5 +1,5 @@
 <h1 align="center">Adriel 🧠</h1>
-<p align="center">Computer Science @ UFS · Code Craftsman · Chaos Architect</p>
+<p align="center">Computer Science @ UFS · Aspiring software engineer · Chaos Architect</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,js,ts,nodejs,deno,bun,html,css,postgres,mysql,mongodb" alt="Tech Stack" />
@@ -19,11 +19,11 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="Adriel's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=linksyyy&show_icons=true&theme=tokyonight" alt="Adriel's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linksyyy&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 ---
