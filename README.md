@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,js,ts,nodejs,deno,bun,html,css,postgres,mysql,mongodb" alt="Tech Stack" /> <br>
-  <h3 align="center"> Others: </h3> <img src="https://skillicons.dev/icons?i=arch,emacs,vscode,vim" alt="Tech Stack" />
+  <h3 align="center"> Others: </h3> <img align="center" src="https://skillicons.dev/icons?i=arch,emacs,vscode,vim" alt="Tech Stack" />
 </p>
 
 ---
