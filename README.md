@@ -30,9 +30,4 @@
 </p>
 
 ---
-
-Na dúvida, all-in <br>
-  git add . <br>
-  git commit -m "confia" <br>
-  git push origin main --force <br>
   
