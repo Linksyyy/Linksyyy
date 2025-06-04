@@ -2,7 +2,7 @@
 <p align="center">Computer Science @ UFS · Code Craftsman · Chaos Architect</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts,nodejs,deno,bun,html,css,postgres" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,nodejs,deno,bun,html,css,postgres,mysql,mongodb" alt="Tech Stack" />
 </p>
 
 ---
