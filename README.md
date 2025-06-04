@@ -1,11 +1,13 @@
 <h1 align="center">Adriel 🧠</h1>
 <p align="center">Computer Science @ UFS · Aspiring software engineer · Chaos Architect</p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts,nodejs,deno,bun,html,css,postgres,mysql,mongodb" alt="Tech Stack" /> <br>
-  <h3 align="center"> Others: </h3> <br>
-  <img src="https://skillicons.dev/icons?i=arch,emacs,vscode,vim" alt="Tech Stack" />
-</p>
+<div align="center">
+  <h3>Main Tech Stack:</h3>
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,nodejs,deno,bun,html,css,postgres,mysql,mongodb" alt="Main Tech Stack" /><br><br>
+  
+  <h3>Others:</h3>
+  <img src="https://skillicons.dev/icons?i=arch,emacs,vscode,vim" alt="Other Tech Stack" />
+</div>
 
 ---
 
