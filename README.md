@@ -2,13 +2,13 @@
 <p align="center">Computer Science @ UFS · Code Craftsman · Chaos Architect</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts,nodejs,deno,html,css,postgres" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,nodejs,deno,bun,html,css,postgres" alt="Tech Stack" />
 </p>
 
 ---
 
 ### ⚡ Tech I'm fluent in:
-> `C++` · `JavaScript` · `TypeScript`  
+> `C++` · `JavaScript` · `TypeScript` · `Python`  
 > `Node.js` · `Deno` · `HTML/CSS` · `PostgreSQL`
 
 ### 🧠 About me:
