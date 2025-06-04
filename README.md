@@ -1,4 +1,4 @@
-<h1 align="center">Adriel ♟️</h1>
+<h1 align="center">Adriel ♜</h1>
 <p align="center">Computer Science @ UFS · Aspiring software engineer · Chaos Architect</p>
 
 <div align="center">
@@ -11,11 +11,11 @@
 
 ---
 
-### ⚡ Tech I'm fluent in:
+### ♝ Tech I'm fluent in:
 > `C++` · `JavaScript` · `TypeScript` · `Python`  
 > `Node.js` · `Deno` · `HTML/CSS` · `PostgreSQL`
 
-### 🧠 About me:
+### ♞ About me:
 - Computer Science student @ UFS (🇧🇷)
 - Obsessive about performance, clean architecture & low-level thinking
 - Always tweaking, profiling, and over-optimizing (for fun)
