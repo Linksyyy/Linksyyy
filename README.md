@@ -13,6 +13,7 @@
 
 ### 🧠 About me:
 - Computer Science student @ UFS (🇧🇷)
+- Arch user <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
 - Obsessive about performance, clean architecture & low-level thinking
 - Always tweaking, profiling, and over-optimizing (for fun)
 ---
