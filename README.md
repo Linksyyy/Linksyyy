@@ -2,7 +2,7 @@
 <p align="center">Computer Science @ UFS · Aspiring software engineer · Chaos Architect</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts,nodejs,deno,bun,html,css,postgres,mysql,mongodb" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,nodejs,deno,bun,html,css,postgres,mysql,mongodb,arch" alt="Tech Stack" />
 </p>
 
 ---
@@ -13,7 +13,6 @@
 
 ### 🧠 About me:
 - Computer Science student @ UFS (🇧🇷)
-- Arch user <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
 - Obsessive about performance, clean architecture & low-level thinking
 - Always tweaking, profiling, and over-optimizing (for fun)
 ---
