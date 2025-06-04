@@ -26,4 +26,4 @@
 </p>
 
 ---
-![linksyyy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=linksyyy&theme=tokyonight&hide_border=true)
+![linksyyy's Stats](https://github-readme-stats.vercel.app/api?username=linksyyy&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
