@@ -1,4 +1,4 @@
-<h1 align="center">Adriel 🧠</h1>
+<h1 align="center">Adriel ♟️</h1>
 <p align="center">Computer Science @ UFS · Aspiring software engineer · Chaos Architect</p>
 
 <div align="center">
