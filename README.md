@@ -6,7 +6,7 @@
   <img src="https://skillicons.dev/icons?i=cpp,js,ts,nodejs,deno,bun,html,css,postgres,mysql,mongodb" alt="Main Tech Stack" /><br><br>
   
   <h3>Others:</h3>
-  <img src="https://skillicons.dev/icons?i=arch,emacs,vscode,vim" alt="Other Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=arch,emacs,vscode,vim,visualstudio" alt="Other Tech Stack" />
 </div>
 
 ---
