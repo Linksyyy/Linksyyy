@@ -37,3 +37,14 @@ $$
 $$
 \frac{\partial^2 u}{\partial t^2} = c^2 \nabla^2 u
 $$
+$$
+\mathbf{F} = m \mathbf{a}
+$$
+
+$$
+\nabla \cdot \mathbf{E} = \frac{\rho}{\varepsilon_0}
+$$
+
+$$
+\sum_{n=1}^\infty \frac{1}{n^2} = \frac{\pi^2}{6}
+$$
