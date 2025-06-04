@@ -31,8 +31,8 @@
 
 ---
 
-Na dúvida aposto all-in
-  `git add.
+Na dúvida, all-in
+  git add .
   git commit -m "confia"
-  git push origin main --force`
+  git push origin main --force
   
