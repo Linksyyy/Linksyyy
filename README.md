@@ -13,6 +13,7 @@
 
 ### 🧠 About me:
 - Computer Science student @ UFS (🇧🇷)
+- Arch user <i class="devicon-archlinux-plain colored"></i>
 - Obsessive about performance, clean architecture & low-level thinking
 - Always tweaking, profiling, and over-optimizing (for fun)
 ---
