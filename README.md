@@ -3,7 +3,7 @@
 
 <div align="center">
   <h3>Main Stack:</h3>
-  <img src="https://skillicons.dev/icons?i=js,ts,cpp,c,python,nodejs,deno,bun,html,css,postgres" alt="Main Tech Stack" /><br><br>
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,c,python,nodejs,deno,bun,html,css,postgres,drizzle" alt="Main Tech Stack" /><br><br>
   
   <h3>Others:</h3>
   <img src="https://skillicons.dev/icons?i=arch,emacs,vscode,vim,visualstudio" alt="Other Tech Stack" />
