@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # roda todo dia à meia-noite
+    - cron: "0 0 * * *"  # todo dia à meia-noite
   workflow_dispatch:
   push:
     branches:
@@ -12,13 +12,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
         with:
           fetch-depth: 0
 
-      - name: Generate Snake Animation
-        uses: Platane/snk@v3
+      - name: Generate GitHub Contribution Snake
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Linksyyy
           outputs: |
