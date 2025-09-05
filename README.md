@@ -1,3 +1,4 @@
+![snake animation](https://github.com/Linksyyy/Linksyyy/blob/output/github-contribution-grid-snake2.svg)
 <h1 align="center">Adriel ♜</h1>
 <p align="center">Computer Science @ UFS · Aspiring software engineer · Chaos Architect</p>
 
