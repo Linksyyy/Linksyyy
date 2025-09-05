@@ -1,6 +1,11 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Linksyyy/Linksyyy/output/github-snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Linksyyy/Linksyyy/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Linksyyy/Linksyyy/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Linksyyy/Linksyyy/output/github-snake.svg" />
+  </picture>
 </p>
+
 
 <h1 align="center">Adriel ♜</h1>
 <p align="center">Computer Science @ UFS · Aspiring software engineer · Chaos Architect</p>
