@@ -21,10 +21,6 @@
 
 ---
 
-### ♝ Tech I'm fluent in:
-> `C++` · `JavaScript` · `TypeScript` · `Python`  
-> `Node.js` · `Deno` · `HTML/CSS` · `PostgreSQL`
-
 ### ♞ About me:
 - Computer Science student @ UFS (🇧🇷)
 - Obsessive about performance, clean architecture & low-level thinking
