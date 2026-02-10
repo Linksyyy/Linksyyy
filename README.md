@@ -16,7 +16,7 @@
   <img src="https://skillicons.dev/icons?i=react,tailwind,postgres,c,cpp,java,rust" alt="Main Tech Stack" /><br><br>
   
   <h3>Tools:</h3>
-  <img src="https://skillicons.dev/icons?i=arch,git,emacs,vscode,vim,visualstudio" alt="Other Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=arch,neovim,vim,git,emacs,vscode,visualstudio" alt="Other Tech Stack" />
 </div>
 
 ---
