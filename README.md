@@ -26,9 +26,15 @@
 - Obsessive about performance, clean architecture & low-level thinking
 - Always tweaking, profiling, and over-optimizing (for fun)
 ---
-
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=linksyyy&theme=material-palenight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+  <a href="http://github-profile-summary-cards.vercel.app">
+    <img href="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=linksyyy&theme=material_palenight" alt="Github top languages"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=linksyyy&theme=material-palenight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
