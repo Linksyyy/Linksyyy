@@ -28,7 +28,7 @@
 ---
 <p align="center">
   <a href="http://github-profile-summary-cards.vercel.app">
-    <img href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=linksyyy&theme=material_palenight" alt="Github top languages"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=linksyyy&theme=material_palenight" alt="Github top languages"/>
   </a>
 </p>
 <p align="center">
