@@ -8,7 +8,7 @@
 
 
 <h1 align="center">Adriel ♜</h1>
-<p align="center">Computer Science @ UFS · Aspiring software engineer · Chaos Architect</p>
+<p align="center">Computer Science @ UFS · Chaos Architect</p>
 
 <div align="center">
   <h3>Main Stack:</h3>
